@@ -10,7 +10,7 @@ If you don't have Ulauncher installed, download it from [here](https://ulauncher
 ## Installation
 Click on "code" button, download the zip file and extract it in **~/.config/ulauncher/user-themes/**
 
-Or open the terminal and run this commands:
+Or open the terminal and run these commands:
 
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
