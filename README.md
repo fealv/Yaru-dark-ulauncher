@@ -5,7 +5,7 @@ If you don't have Ulauncher installed, download it from [here](https://ulauncher
 
 ## Result
 ---
-![screenshot](screenshot(2).png)
+![screenshot](screenshot2.png)
 ![gif](gif.gif)
 
 ## Installation
