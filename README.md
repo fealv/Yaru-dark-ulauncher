@@ -14,5 +14,5 @@ Or open the terminal and run these commands:
 
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/fealv/Yaru-dark-ulauncher.git ~/.config/ulauncher/user-themes/Yaru-dark-ulauncher
+git clone https://github.com/abish7643/Yaru-dark-ulauncher.git ~/.config/ulauncher/user-themes/Yaru-dark-ulauncher
 ```
