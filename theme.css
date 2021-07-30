@@ -10,7 +10,7 @@
  * Input
  */
 @define-color selected_bg_color #92354B;
-@define-color selected_fg_color @selected_bg_color;
+@define-color selected_fg_color #e6e6e6;
 @define-color input_color #e6e6e6;
 @define-color caret_color darker(@input_color);
 
